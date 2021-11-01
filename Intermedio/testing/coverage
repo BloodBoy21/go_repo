@@ -1,0 +1,7 @@
+mode: set
+github.com/BloodBoy21/test/main.go:3.37,4.27 1 1
+github.com/BloodBoy21/test/main.go:7.2,7.8 1 1
+github.com/BloodBoy21/test/main.go:4.27,6.3 1 1
+github.com/BloodBoy21/test/main.go:9.27,10.11 1 1
+github.com/BloodBoy21/test/main.go:13.2,13.10 1 0
+github.com/BloodBoy21/test/main.go:10.11,12.3 1 1
